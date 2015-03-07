@@ -18,6 +18,7 @@ $ npm i gulp -g
 
 ```sh
 $ git clone git@github.com:gologo13/react-todo-sample.git
+$ cd react-todo-sample
 $ npm i
 $ http-server
 ```
